@@ -54,7 +54,7 @@ Code-related documentation can be found in the [documentation](Documentation/) f
 
 ## How do I build and run this?
 
-See the [SerenityOS build instructions](https://github.com/SerenityOS/serenity/blob/master/Documentation/BuildInstructions.md) or the [Ladybird build instructions](Documentation/BuildInstructionsLadybird.md).
+See the [SerenityOS build instructions](https://github.com/sudobomba/serenity/blob/master/Documentation/BuildInstructions.md) or the [Ladybird build instructions](Documentation/BuildInstructionsLadybird.md).
 
 The build system supports a cross-compilation build of SerenityOS from Linux, macOS, Windows (with WSL2) and many other \*Nixes.
 The default build system commands will launch a QEMU instance running the OS with hardware or software virtualization
